@@ -6,11 +6,11 @@
 
 ### Winners:
 
-The winner of $125 is @nikpundik with Cactus Tycoon 3D! A recursive actor model was used on a 3d shape making it look very realistic! https://github.com/Algorithm-Arena/weekly-challenge-15-cactus-generator
+* The winner of $125 is @nikpundik with Cactus Tycoon 3D! A recursive actor model was used on a 3d shape making it look very realistic! https://github.com/Algorithm-Arena/weekly-challenge-15-cactus-generator/issues/1
 
 https://github.com/Algorithm-Arena/weekly-challenge-15-cactus-generator/assets/197597/6c4aa537-5a67-40aa-b8f0-da6e7b96e241
 
-The second place for $75 is @Uzo2005! This used an L-System with rules that fit in a tweet! {"X": "F[+X[-F]][-X[+F]]FF", "F": "XF"} https://github.com/Algorithm-Arena/weekly-challenge-15-cactus-generator/issues/2
+* The second place for $75 is @Uzo2005! This used an L-System with rules that fit in a tweet! {"X": "F[+X[-F]][-X[+F]]FF", "F": "XF"} https://github.com/Algorithm-Arena/weekly-challenge-15-cactus-generator/issues/2
 
 https://github.com/Algorithm-Arena/weekly-challenge-15-cactus-generator/assets/197597/076079ad-f06a-47e3-b5f8-b92b013cf470
 
